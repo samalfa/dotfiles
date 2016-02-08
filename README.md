@@ -1,1 +1,1 @@
-# dotfiles
+#This is Sam's dotfile on Mac OSX, Ubuntu,  Windows
