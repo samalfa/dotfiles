@@ -1,0 +1,13 @@
+[user]
+	name = SamAlfa
+	email = sam.tunk@gmail.com
+[color]
+	ui = auto
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[core]
+	autocrlf = input
+[alias]
+	gl = log --oneline
